@@ -1,0 +1,6 @@
+Order ID,Order Date,Ship Date,Customer ID,Customer Name,Segment,Country,City,State,Postal Code,Region,Product ID,Product Name,Category,Sub-Category,Sales,Quantity,Discount,Profit
+CA-2017-152156,2017-11-08,2017-11-11,CG-12520,Claire Gute,Consumer,United States,Henderson,Kentucky,42420,South,OFF-AR-10003625,Office Supplies,Office Supplies,Accessories,261.96,2,0,41.9136
+US-2016-108966,2016-10-11,2016-10-18,AA-10480,Darrin Van Huff,Corporate,United States,Los Angeles,California,90032,West,FUR-BO-10001798,Furniture,Home Office,Bookcases,14.62,2,0,6.8714
+CA-2015-115812,2015-06-09,2015-06-14,SO-20335,Evelyn Meza,Consumer,United States,Minneapolis,Minnesota,55401,Central,OFF-ST-10000760,Office Supplies,Office Supplies,Storage,957.5775,5,0.45,-383.031
+IN-2016-213983,2016-01-12,2016-01-20,DB-13050,Thomas Hardy,Home Office,United States,New York,New York,10024,East,FUR-TA-10001946,Furniture,Tables,Tables,22.368,2,0,2.5164
+CA-2017-114412,2017-05-13,2017-05-20,SO-20335,Evelyn Meza,Consumer,United States,Seattle,Washington,98101,West,OFF-LA-10001487,Office Supplies,Office Supplies,Labels,7.28,1,0,1.9656
