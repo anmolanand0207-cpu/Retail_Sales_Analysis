@@ -25,8 +25,8 @@ Retail-Sales-Dashboard/
 └── README.md
 
 
-## Key insights (example)
-- Total revenue (sample): shown when running the script.
+## Key insights
+- Total revenue 
 - Top products and monthly trends can be extracted via provided SQL queries.
 
 
